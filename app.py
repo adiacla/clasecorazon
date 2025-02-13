@@ -30,8 +30,8 @@ with tab1:
     
     # Crear un dataframe con los datos ingresados
     data = {
-        'Edad': [edad],
-        'Colesterol': [colesterol]
+        'edad': [edad],
+        'colesterol': [colesterol]
     }
     
     df = pd.DataFrame(data)

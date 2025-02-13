@@ -18,7 +18,7 @@ st.markdown("""
 
 # Cargar el modelo de clasificación y el escalador
 modelo_knn = joblib.load('modelo_knn.bin')
-escalador = joblib.load('escalador.bin')
+escalador = joblib.load('esclador.bin')
 
 # Crear pestañas para los inputs y resultados
 tab1, tab2 = st.tabs(["Ingresar Datos", "Resultados"])

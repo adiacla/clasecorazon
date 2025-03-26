@@ -6,7 +6,7 @@ import numpy as np
 
 # Título de la aplicación
 st.title("Asistente Cardiaco")
-st.markdown("**Autor**: Alfredo Díaz")
+st.markdown("**Autor**: Alfredo Díaz Claro")
 
 # Instrucciones de uso
 st.markdown("""
